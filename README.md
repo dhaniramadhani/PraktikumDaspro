@@ -1,0 +1,1 @@
+hello,github sekarang kamu jadi temenku
