@@ -30,7 +30,6 @@ public class ujianSkripsi {
             pesan = "Gagal, KAMU MASIH PUNYA BANYAK TANGGUNGAN!!!";
         }
 
-        // 🔹 inilah bagian yang kamu lupa:
         System.out.println(pesan);
     }
 }
