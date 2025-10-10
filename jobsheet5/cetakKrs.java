@@ -10,7 +10,10 @@ public class cetakKrs {
             System.out.println("Pembayaran UKT Terverifikasi");
             System.out.println("Silahkan Cetak KRS dan Minta TTD ke DPA");
         }
-        
+        else{
+            System.out.println("Pembayarn Ukt Belum Lunas");
+        }
+
     }
     
 }
